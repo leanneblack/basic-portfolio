@@ -1,0 +1,24 @@
+.column{
+    float: left;
+    width: 50%;  
+}
+
+figure {
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    margin: auto;
+}
+
+figcaption{
+    background-color: #333;
+    color:#fff;
+    padding: 10px;
+    text-align:center;
+    position: relative;
+    bottom:70px;
+
+}
+img{
+    width:100%;
+}
